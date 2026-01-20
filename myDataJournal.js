@@ -89,21 +89,4 @@ Is more caffeine helping?
   I should have used terms like "productive" and then checked to
   see if that correlated true/fase with caffeine above a certain level.
 
-
-5. Reflect on Your Findings
-Create a file called REFLECTION.md and answer:
-
-Were your predictions right?
-What surprised you?
-What was tricky or rewarding?
-How did using your own data change things?
-
-
-Submit to Canvas
-Upload myDataJournal.js file to Canvas
-URL added to myDataJournal.js as a comment
-Create a GitHub repo named cs81-modulel4b-mydataexplorer
-Include myDataJournal.js and REFLECTION.md.
-Make at least 4 commits with useful messages (e.g. "added sleep function").
-
 */
